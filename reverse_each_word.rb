@@ -4,3 +4,4 @@ def reverse_each_word(string)
   array.each do |words| words.reverse
   binding.pry
 end
+end
